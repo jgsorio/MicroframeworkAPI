@@ -1,0 +1,5 @@
+vendor/
+.idea
+.database
+.env
+*.log
